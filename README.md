@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js (backend), model evaluation & fine-tuning**
 
-- 👨‍💻 All of my projects are available at [Notion Portfolio](https://app.notion.com/p/0bb739d7a1c3830ba6a501d0267c3ea8)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yeseun2005.github.io)
 
 - 💬 Ask me about **React, TypeScript, Git workflow**
 
