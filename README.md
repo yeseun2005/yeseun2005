@@ -78,9 +78,3 @@
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/notion/000000/ffffff" alt="notion" width="40" height="40"/></a>
 <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="claude" width="40" height="40"/></a>
 </p>
-
-<h3 align="left">GitHub Activity:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeseun2005&show_icons=true&locale=en&layout=compact" alt="yeseun2005" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeseun2005&show_icons=true&locale=en" alt="yeseun2005" /></p>
